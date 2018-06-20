@@ -1,0 +1,5 @@
+In this tableau Book2,4,5 are using global superstore data but Book1 is using
+Tabellenblatt in which i have view data according sales in company per second 
+using fortune 500 company ranking and in books2,4,5 i am view data according to
+category sub-category using countries sales in country profits per months,years 
+in different views etc.
